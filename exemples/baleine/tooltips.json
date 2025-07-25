@@ -1,0 +1,17 @@
+[
+  {
+    "x": -0.38,
+    "y": 0.17,
+    "z": -0.015,
+    "title": "Queue",
+    "description": "La sculpture est cassée au niveau de la queue",
+    "imgUrl": "https://huggingface.co/datasets/MikaFil/viewer_gs/resolve/main/ressources/exemples/ply/baleine/img/detail_queue.jpg"
+  },
+  {
+    "x": 0.15,
+    "y": 0.27,
+    "z": -0.07,
+    "title": "Nageoire",
+    "description": "Les nageoires sont amovibles pour faciliter le transport"
+  }
+]
