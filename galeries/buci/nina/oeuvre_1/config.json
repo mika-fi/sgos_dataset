@@ -1,10 +1,7 @@
 {
   "sogs_json_url": "https://raw.githubusercontent.com/mika-fi/sgos_dataset/main/galeries/buci/nina/oeuvre_1/meta.json",
   "css_url": "https://mikafil-viewer-gs.static.hf.space/style/defaults/style.css",
-  "glb_url": "https://huggingface.co/datasets/MikaFil/viewer_gs/resolve/main/ressources/espace_expo/espace_exposition.glb",
-  "presentoir_url" :"https://huggingface.co/datasets/MikaFil/viewer_gs/resolve/main/ressources/espace_expo/presentoir.glb",
   
-
   "canvas_background": "#FFFFFF",
   "aspect": "16:9",
 
