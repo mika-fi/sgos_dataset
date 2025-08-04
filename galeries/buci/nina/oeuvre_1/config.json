@@ -1,0 +1,40 @@
+{
+  "sogs_json_url": "https://raw.githubusercontent.com/mika-fi/sgos_dataset/main/galeries/buci/nina/oeuvre_1/meta.json",
+  "css_url": "https://mikafil-viewer-gs.static.hf.space/style/defaults/style.css",
+  "glb_url": "https://huggingface.co/datasets/MikaFil/viewer_gs/resolve/main/ressources/espace_expo/espace_exposition.glb",
+  "presentoir_url" :"https://huggingface.co/datasets/MikaFil/viewer_gs/resolve/main/ressources/espace_expo/presentoir.glb",
+  
+
+  "canvas_background": "#FFFFFF",
+  "aspect": "16:9",
+
+  "modelX": 0,
+  "modelY": 0,
+  "modelZ": 0,
+  "modelScale": 1,
+  "modelRotationX": 180,
+  "modelRotationY": 0,
+  "modelRotationZ": 0,
+
+  "presentoirScaleX": 1,
+  "presentoirScaleY": 1,
+  "presentoirScaleZ": 1,
+
+  "cameraX": 0,
+  "cameraY": 0.3,
+  "cameraZ": 1.5,
+
+  "cameraXPhone": 0,
+  "cameraYPhone": 0.3,
+  "cameraZPhone": 1.5,
+
+  "minZoom": 0.35,
+  "maxZoom": 3,
+  "minPivotY": 2.5,
+  "minAngle": -90,
+  "maxAngle": 20,
+  "minAzimuth": -90000,
+  "maxAzimuth": 90000,
+
+  "minY": -0.5
+}
